@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋👋👋👋
 
-<!--
-**AlphaRomeoMike/AlphaRomeoMike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Abdul Rafay Modi** going by name [AlphaRomeoMike] on [GitHub] and [Reddit]. I am a Backend Developer but I can work with 🎯 Angular and frontend CSS Frameworks like Bootstrap, Materialize CSS and Tailwind
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Laravel] and [NodeJS]
+- 💖 I love [Laravel]
+- 🗃  MySQL, MSSQL, PostgreSQL
+- 💬 I love to work with PHP, Java, Python and JavaScript
+- ☁  I can work with MS Azure and love to learn more about Cloud Computing
+- 🌱 I’m currently learning [Flutter]
+- 👯 I’m looking to collaborate on any Open Source projects
+- 📚 Student of MCS at PAF KIET
+- 🎓 Future Masters Laureate of Computer Science
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am tall and I love cats 🐱‍👤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[Laravel]: https://github.com/laravel/laravel
+[AlphaRomeoMike]: https://github.com/AlphaRomeoMike
+[Github]: https://www.github.com
+[Reddit]: https://www.reddit.com
+[NodeJS]: https://nodejs.org/en/
+[Flutter]: https://flutter.dev
