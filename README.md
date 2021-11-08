@@ -3,7 +3,7 @@
 I am **Abdul Rafay Modi** going by name [AlphaRomeoMike] on [GitHub] and [Reddit]. I am a Backend Developer but I can work with 🎯 Angular and frontend CSS Frameworks like Bootstrap, Materialize CSS and Tailwind
 
 - 🔭 I’m currently working on [Laravel] and [NodeJS]
-- 💖 I love [Laravel]
+- 💖 I love [Laravel] and Web APIs
 - 🗃  MySQL, MSSQL, PostgreSQL
 - 💬 I love to work with PHP, Java, Python and JavaScript
 - ☁  I can work with MS Azure and love to learn more about Cloud Computing
