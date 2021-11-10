@@ -1,6 +1,6 @@
 ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpharomeomike&show_icons=true&theme=github_dark)
 
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpharomeomike)](https://github.com/alpharomeomike&langs_count=5&theme=github_dark&layout=compact)
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=alpharomeomike)](https://github.com/alpharomeomike&langs_count=5&theme=github_dark&layout=compact)
 
 
 ### Hi there 👋👋👋👋
