@@ -21,3 +21,5 @@ I am **Abdul Rafay Modi** going by name [AlphaRomeoMike] on [GitHub] and [Reddit
 [Reddit]: https://www.reddit.com
 [NodeJS]: https://nodejs.org/en/
 [Flutter]: https://flutter.dev
+
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpharomeomike&show_icons=true)
