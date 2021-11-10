@@ -1,4 +1,5 @@
-[![Welcome](https://img.shields.io/badge/Welcome-Dev-green.svg)](https://shields.io/) ![Maintainer](https://img.shields.io/badge/Maintainer-AlphaRomeoMike-blue) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+[![Welcome](https://img.shields.io/badge/Welcome-Dev-green.svg)](https://shields.io/) ![Maintainer](https://img.shields.io/badge/Maintainer-AlphaRomeoMike-blue) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg) [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com) [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/AlphaRomeoMike)
+
 
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/AlphaRomeoMike/badges)
 
