@@ -1,5 +1,8 @@
 ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpharomeomike&show_icons=true&theme=github_dark)
 
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpharomeomike)](https://github.com/alpharomeomike&langs_count=5&theme=github_dark)
+
+
 ### Hi there 👋👋👋👋
 
 I am **Abdul Rafay Modi** going by name [AlphaRomeoMike] on [GitHub] and [Reddit]. I am a Backend Developer but I can work with 🎯 Angular and frontend CSS Frameworks like Bootstrap, Materialize CSS and Tailwind
