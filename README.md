@@ -11,8 +11,9 @@ I am **Abdul Rafay Modi** going by name [AlphaRomeoMike] on [GitHub] and [Reddit
 - 👯 I’m looking to collaborate on any Open Source projects
 - 📚 Student of MCS at PAF KIET
 - 🎓 Future Masters Laureate of Computer Science
-- 😄 Pronouns: He/Him
+- 🚹 Pronouns: He/Him
 - ⚡ Fun fact: I am tall and I love cats 🐱‍👤
+- ✍ I ocassionally write blogs on [Coding Tricks Hub]
 
 
 [Laravel]: https://github.com/laravel/laravel
@@ -21,6 +22,7 @@ I am **Abdul Rafay Modi** going by name [AlphaRomeoMike] on [GitHub] and [Reddit
 [Reddit]: https://www.reddit.com
 [NodeJS]: https://nodejs.org/en/
 [Flutter]: https://flutter.dev
+[Coding Tricks Hub]: https://codingtrickshub.com/
 
 My Stats | My Top Languages
 ------------ | -------------
