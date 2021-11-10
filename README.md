@@ -1,4 +1,4 @@
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpharomeomike&show_icons=true&theme=radical)
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpharomeomike&show_icons=true&theme=github_dark)
 
 ### Hi there 👋👋👋👋
 
