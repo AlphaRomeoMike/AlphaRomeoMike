@@ -1,4 +1,5 @@
-[![Welcome](https://img.shields.io/badge/Welcome-Dev-green.svg)](https://shields.io/) ![Maintainer](https://img.shields.io/badge/Maintainer-AlphaRomeoMike-blue)
+[![Welcome](https://img.shields.io/badge/Welcome-Dev-green.svg)](https://shields.io/) ![Maintainer](https://img.shields.io/badge/Maintainer-AlphaRomeoMike-blue) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+
 
 ### Hi there 👋👋👋👋
 
