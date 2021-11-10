@@ -1,5 +1,8 @@
 [![Welcome](https://img.shields.io/badge/Welcome-Dev-green.svg)](https://shields.io/) ![Maintainer](https://img.shields.io/badge/Maintainer-AlphaRomeoMike-blue) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/AlphaRomeoMike/badges)
+
+
 
 ### Hi there 👋👋👋👋
 
