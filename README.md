@@ -1,3 +1,5 @@
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpharomeomike&show_icons=true&theme=radical)
+
 ### Hi there 👋👋👋👋
 
 I am **Abdul Rafay Modi** going by name [AlphaRomeoMike] on [GitHub] and [Reddit]. I am a Backend Developer but I can work with 🎯 Angular and frontend CSS Frameworks like Bootstrap, Materialize CSS and Tailwind
@@ -21,5 +23,3 @@ I am **Abdul Rafay Modi** going by name [AlphaRomeoMike] on [GitHub] and [Reddit
 [Reddit]: https://www.reddit.com
 [NodeJS]: https://nodejs.org/en/
 [Flutter]: https://flutter.dev
-
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpharomeomike&show_icons=true)
