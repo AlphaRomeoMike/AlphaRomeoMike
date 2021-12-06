@@ -32,6 +32,6 @@ I am **Abdul Rafay Modi** going by name [AlphaRomeoMike] on [GitHub] and [Reddit
 [Angular]: https://angular.io/
 [PHP]: https://php.net
 
-My Stats | My Top Languages
------------- | -------------
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpharomeomike&show_icons=true&theme=github_dark) | [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=alpharomeomike&layout=compact&theme=github_dark)]()
+My Stats | My Top Languages | Github Streak
+------------ | ------------- | -------------
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpharomeomike&show_icons=true&theme=github_dark) | [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=alpharomeomike&layout=compact&theme=github_dark)]() | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alpharomeomike&theme=github-dark&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
