@@ -10,12 +10,12 @@ I am **Abdul Rafay Modi** going by name [AlphaRomeoMike] on [GitHub] and [Reddit
 - ⚙ I’m currently working on [Laravel] and [NodeJS] for backend
 - 🕸  I work with [Angular] for frontend
 - 💖 I love [Laravel] and Web APIs
-- 🗃  MySQL, MSSQL, PostgreSQL
-- 💬 I love to work with PHP, Java, Python and JavaScript
-- ☁  I can work with MS Azure and love to learn more about Cloud Computing
+- 🗃  MySQL, MSSQL, PostgreSQL and MongoDB
+- 💬 I love to work with Node JS, PHP, Java, Python and JavaScript
+- ☁  I can work with MS Azure and AWS love to learn more about Cloud Computing
 - 🌱 I’m currently learning [Flutter]
 - 👯 I’m looking to collaborate on any Open Source projects
-- 📚 Student of MCS at PAF KIET
+- 📚 Student of BSCS at PAF KIET
 - 🎓 Future Masters Laureate of Computer Science
 - 🚹 Pronouns: He/Him
 - ⚡ Fun fact: I am tall and I love cats 🐱‍👤
